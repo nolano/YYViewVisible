@@ -1,0 +1,16 @@
+PODS:
+  - YYViewVisible (0.1.0)
+
+DEPENDENCIES:
+  - YYViewVisible (from `../`)
+
+EXTERNAL SOURCES:
+  YYViewVisible:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYViewVisible: d77001779b21a6a9ca9ef61070d4daef57e656d3
+
+PODFILE CHECKSUM: 7ea5aa00e858f3c36a552b35a24c5e71e8b7ce75
+
+COCOAPODS: 1.11.2

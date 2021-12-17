@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YYViewVisible_Example' do
+  pod 'YYViewVisible', :path => '../'
+
+  target 'YYViewVisible_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module YYViewVisible {
+  umbrella header "YYViewVisible-umbrella.h"
+
+  export *
+  module * { export * }
+}
