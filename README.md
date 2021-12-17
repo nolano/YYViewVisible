@@ -1,3 +1,9 @@
+# YYViewVisible
+
+[![CI Status](https://img.shields.io/travis/yuyuan yue/YYViewVisible.svg?style=flat)](https://travis-ci.org/yuyuan yue/YYViewVisible)
+[![Version](https://img.shields.io/cocoapods/v/YYViewVisible.svg?style=flat)](https://cocoapods.org/pods/YYViewVisible)
+[![License](https://img.shields.io/cocoapods/l/YYViewVisible.svg?style=flat)](https://cocoapods.org/pods/YYViewVisible)
+[![Platform](https://img.shields.io/cocoapods/p/YYViewVisible.svg?style=flat)](https://cocoapods.org/pods/YYViewVisible)
 
 
 ## 功能
